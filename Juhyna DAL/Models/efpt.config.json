@@ -1,0 +1,118 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "JuhinaDBContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "MinimumProductVersion": "2.6.1091",
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Juhyna_DAL",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Admins]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Adminstratives]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Categories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CustomerPlaces]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Customers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FillProductinInventory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Inventories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[InvoicebetweenSaleAdminstrative]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Orders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PaymentMethods]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[People]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Places]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductInventories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Products]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Returns]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Sales]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SalesCustomers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Visits]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseInternalAccessModifiersForSprocsAndFunctions": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false
+}

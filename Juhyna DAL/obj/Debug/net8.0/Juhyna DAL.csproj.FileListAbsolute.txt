@@ -1,0 +1,14 @@
+D:\Juhyna Project\Juhyna Project\Juhyna DAL\bin\Debug\net8.0\Juhyna DAL.deps.json
+D:\Juhyna Project\Juhyna Project\Juhyna DAL\bin\Debug\net8.0\Juhyna DAL.runtimeconfig.json
+D:\Juhyna Project\Juhyna Project\Juhyna DAL\bin\Debug\net8.0\Juhyna DAL.dll
+D:\Juhyna Project\Juhyna Project\Juhyna DAL\bin\Debug\net8.0\Juhyna DAL.pdb
+D:\Juhyna Project\Juhyna Project\Juhyna DAL\obj\Debug\net8.0\Juhyna DAL.csproj.AssemblyReference.cache
+D:\Juhyna Project\Juhyna Project\Juhyna DAL\obj\Debug\net8.0\Juhyna DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Juhyna Project\Juhyna Project\Juhyna DAL\obj\Debug\net8.0\Juhyna DAL.AssemblyInfoInputs.cache
+D:\Juhyna Project\Juhyna Project\Juhyna DAL\obj\Debug\net8.0\Juhyna DAL.AssemblyInfo.cs
+D:\Juhyna Project\Juhyna Project\Juhyna DAL\obj\Debug\net8.0\Juhyna DAL.csproj.CoreCompileInputs.cache
+D:\Juhyna Project\Juhyna Project\Juhyna DAL\obj\Debug\net8.0\Juhyna DAL.dll
+D:\Juhyna Project\Juhyna Project\Juhyna DAL\obj\Debug\net8.0\refint\Juhyna DAL.dll
+D:\Juhyna Project\Juhyna Project\Juhyna DAL\obj\Debug\net8.0\Juhyna DAL.pdb
+D:\Juhyna Project\Juhyna Project\Juhyna DAL\obj\Debug\net8.0\Juhyna DAL.genruntimeconfig.cache
+D:\Juhyna Project\Juhyna Project\Juhyna DAL\obj\Debug\net8.0\ref\Juhyna DAL.dll
