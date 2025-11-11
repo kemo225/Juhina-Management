@@ -36,7 +36,7 @@ namespace Juhyna_Api.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status401Unauthorized)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        [ResponseCache(Duration = 60, Location = ResponseCacheLocation.Any, NoStore = false)]
+        [ResponseCache(Duration = 30, Location = ResponseCacheLocation.Any, NoStore = false)]
         [OutputCache(Duration = 60)]
 
         public ActionResult<IEnumerable<DtoProductInventoryRead>> GetAllProductinInventories()

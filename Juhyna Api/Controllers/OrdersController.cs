@@ -51,7 +51,7 @@ namespace Juhyna_Api.Controllers
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status401Unauthorized)]
         [Authorize(Roles = "Admin")]
-        [ResponseCache(Duration = 60, Location = ResponseCacheLocation.Any, NoStore = false)]
+        [ResponseCache(Duration = 30, Location = ResponseCacheLocation.Any, NoStore = false)]
         [OutputCache(Duration = 60)]
 
         public ActionResult<IEnumerable<DtoOrderRead>> GetAllOrder()
@@ -77,7 +77,7 @@ namespace Juhyna_Api.Controllers
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status401Unauthorized)]
         [Authorize(Roles = "Admin")]
-        [ResponseCache(Duration = 60, Location = ResponseCacheLocation.Any, NoStore = false)]
+        [ResponseCache(Duration = 30, Location = ResponseCacheLocation.Any, NoStore = false)]
         [OutputCache(Duration = 60)]
 
 
@@ -103,7 +103,7 @@ namespace Juhyna_Api.Controllers
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status401Unauthorized)]
         [Authorize(Roles = "Admin")]
-        [ResponseCache(Duration = 60, Location = ResponseCacheLocation.Any, NoStore = false)]
+        [ResponseCache(Duration = 30, Location = ResponseCacheLocation.Any, NoStore = false)]
         [OutputCache(Duration = 60)]
 
         public ActionResult<IEnumerable<DtoOrderRead>> GetAllOrderCanceled()

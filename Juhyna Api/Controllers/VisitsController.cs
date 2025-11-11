@@ -37,7 +37,7 @@ namespace Juhyna_Api.Controllers
         }
         [HttpGet]
         [Authorize(Roles = "Admin")]
-        [ResponseCache(Duration = 60, Location = ResponseCacheLocation.Any, NoStore = false)]// SLOWER STORE IN CLIENT
+        [ResponseCache(Duration =30, Location = ResponseCacheLocation.Any, NoStore = false)]// SLOWER STORE IN CLIENT
         [OutputCache(Duration = 60)]// FASTER STORE IN SERVER
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status401Unauthorized)]

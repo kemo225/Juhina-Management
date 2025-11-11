@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\returnscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\returnscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2C89BAB-9A6F-B083-F95D-26D7EB7EC3B2}|..\\Juhyna DAL\\Juhyna DAL.csproj|d:\\juhyna project\\juhyna project\\juhyna dal\\invoicesaleadminstrative\\datacaccessinvoices\\clsdatacaccessinvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D4C3CB3-EC53-B2C6-7280-E71EBA3B567C}|..\\Juhina BLL\\Juhyna BLL.csproj|d:\\juhyna project\\juhyna project\\juhina bll\\return\\return\\clsreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -700,11 +700,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "clsDataAccessReturn.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DataAccessReturn\\clsDataAccessReturn.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Return\\DataAccessReturn\\clsDataAccessReturn.cs",
@@ -717,12 +717,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ReturnsController.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\ReturnsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ReturnsController.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\ReturnsController.cs*",
-              "RelativeToolTip": "Controllers\\ReturnsController.cs*",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\ReturnsController.cs",
+              "RelativeToolTip": "Controllers\\ReturnsController.cs",
               "ViewState": "AgIAAAwBAAAAAAAAAAAAAB8BAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T10:37:02.449Z",
@@ -769,7 +769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DtoReturnUpdateByAdminstrarive.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateByAdminstrarive.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateByAdminstrarive.cs",
@@ -782,12 +782,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAAAGQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:57:01.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DtoReturnUpdateBySale.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateBySale.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateBySale.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateBySale.cs*",
-              "RelativeToolTip": "..\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateBySale.cs*",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateBySale.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateBySale.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T16:18:19.752Z",
@@ -795,7 +812,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ClsDatacAccessInvoices.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DatacAccessInvoices\\ClsDatacAccessInvoices.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DatacAccessInvoices\\ClsDatacAccessInvoices.cs",
@@ -817,23 +834,6 @@
               "ViewState": "AgIAACsAAAAAAAAAAAAawDUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T12:45:04.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T11:57:01.608Z",
               "EditorCaption": ""
             },
             {
