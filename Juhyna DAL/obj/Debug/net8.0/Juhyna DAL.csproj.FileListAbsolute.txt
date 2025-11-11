@@ -12,3 +12,4 @@ D:\Juhyna Project\Juhyna Project\Juhyna DAL\obj\Debug\net8.0\refint\Juhyna DAL.d
 D:\Juhyna Project\Juhyna Project\Juhyna DAL\obj\Debug\net8.0\Juhyna DAL.pdb
 D:\Juhyna Project\Juhyna Project\Juhyna DAL\obj\Debug\net8.0\Juhyna DAL.genruntimeconfig.cache
 D:\Juhyna Project\Juhyna Project\Juhyna DAL\obj\Debug\net8.0\ref\Juhyna DAL.dll
+D:\Juhyna Project\Juhyna Project\Juhyna DAL\obj\Debug\net8.0\Juhyna DAL.sourcelink.json

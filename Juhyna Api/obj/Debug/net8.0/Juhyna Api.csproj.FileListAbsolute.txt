@@ -179,3 +179,4 @@ D:\Juhyna Project\Juhyna Project\Juhyna Api\bin\Debug\net8.0\Microsoft.AspNetCor
 D:\Juhyna Project\Juhyna Project\Juhyna Api\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
 D:\Juhyna Project\Juhyna Project\Juhyna Api\bin\Debug\net8.0\FluentScheduler.dll
 D:\Juhyna Project\Juhyna Project\Juhyna Api\obj\Debug\net8.0\Juhyna Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Juhyna Project\Juhyna Project\Juhyna Api\obj\Debug\net8.0\Juhyna Api.sourcelink.json

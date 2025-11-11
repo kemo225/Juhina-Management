@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Juhyna_DAL.EmailService.InterFce;
+using Microsoft.Extensions.Configuration;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -6,14 +8,17 @@ using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Juhyna_BLL.EmailService
+namespace Juhyna_DAL.EmailService.NewFolder
 {
-    public class EmailService
+    public class NotificationDAL:INotfifcationDAL
     {
-        private static readonly string EmailFrom = "Ka4766311@gmail.com";
 
-        private static readonly string Password = "vlra bsav tecz guur";
-        public static void SendEmail(string Emailto, string subject, string body)
+        private readonly IConfiguration _Configure;
+        public NotificationDAL(IConfiguration configure)
+        {
+            _Configure = configure;
+        }
+        public void SendEmail(string Emailto, string subject, string body)
         {
             try
             {
@@ -22,12 +27,12 @@ namespace Juhyna_BLL.EmailService
                 var smtpClient = new SmtpClient("smtp.gmail.com")
                 {
                     Port = 587,// SMTP port for mails
-                    Credentials = new NetworkCredential(EmailFrom, Password),
+                    Credentials = new NetworkCredential(_Configure["EmailFrom"], _Configure["PasswordEmail"]!),
                     EnableSsl = true,// for connection security
                 };
                 var MailMessage = new MailMessage
                 {
-                    From = new MailAddress(EmailFrom),
+                    From = new MailAddress(_Configure["EmailFrom"]!),
                     Subject = subject,
                     Body = body,
                     IsBodyHtml = true,

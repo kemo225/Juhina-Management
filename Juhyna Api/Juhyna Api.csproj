@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>Juhyna_Api</RootNamespace>
+    <UserSecretsId>28e5a0b6-7750-4e50-b9f1-963c58db31d1</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

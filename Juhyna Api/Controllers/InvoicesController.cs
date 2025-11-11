@@ -1,7 +1,8 @@
-﻿using Juhyna_BLL.EmailService;
+﻿using Juhyna_BLL.EmailService.InterFace;
 using Juhyna_BLL.FollowingSaleAdminstrative.Interface;
 using Juhyna_BLL.ProductIneventory.InterFace;
 using Juhyna_BLL.Sales.InterFace;
+using Juhyna_DAL.EmailService.NewFolder;
 using Juhyna_DAL.FollowingSaleAdminstrative.DTO;
 using Juhyna_DAL.Inventory.Dto;
 using Juhyna_DAL.InvoiceSaleAdminstrative.DTO;
@@ -25,15 +26,17 @@ namespace Juhyna_Api.Controllers
         private readonly IMemoryCache _Cashe;
         private readonly IproductInevtoryBLL _Productinventory;
         private readonly ISalesBLL _SaleBLL;
+        private readonly InotificationBLL _inotificationBLL;
         
 
         public string Cashkey = "";
-        public InvoicesController(ISalesBLL salesBLL,IproductInevtoryBLL Productinventory, IInvoicesBLL folloingSaleAdminstrativeBLL, IMemoryCache Cashe)
+        public InvoicesController(InotificationBLL inotificationBLL,ISalesBLL salesBLL,IproductInevtoryBLL Productinventory, IInvoicesBLL folloingSaleAdminstrativeBLL, IMemoryCache Cashe)
         {
             _folloingSaleAdminstrativeBLL=folloingSaleAdminstrativeBLL;
             _Cashe = Cashe;
             _Productinventory= Productinventory;
             _SaleBLL= salesBLL;
+            _inotificationBLL=inotificationBLL;
         }
 
 
@@ -306,7 +309,7 @@ namespace Juhyna_Api.Controllers
             if (null== InvoiceAdded)
                 return BadRequest("Failed Add Invoice");
             try { 
-            EmailService.SendEmail(
+            _inotificationBLL.SendEmail(
     sale.Email,
     "New Invoice Created",
     $"Dear {sale.FirstName} {sale.LastName},\n\n" +
@@ -371,7 +374,7 @@ namespace Juhyna_Api.Controllers
             }
             try
             {
-                EmailService.SendEmail(
+                _inotificationBLL.SendEmail(
 invoiceDetails.EmailAdminstrative,
 "Invoice Accepted",
 $"Dear {invoiceDetails.CreatedByAdminstrativeName},\n\n" +

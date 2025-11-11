@@ -3,12 +3,88 @@
   "WorkspaceRootPath": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9D4C3CB3-EC53-B2C6-7280-E71EBA3B567C}|..\\Juhina BLL\\Juhyna BLL.csproj|d:\\juhyna project\\juhyna project\\juhina bll\\notificationservice\\notification\\notificationbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4C3CB3-EC53-B2C6-7280-E71EBA3B567C}|..\\Juhina BLL\\Juhyna BLL.csproj|d:\\juhyna project\\juhyna project\\juhina bll\\notificationservice\\interface\\inotificationbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C89BAB-9A6F-B083-F95D-26D7EB7EC3B2}|..\\Juhyna DAL\\Juhyna DAL.csproj|d:\\juhyna project\\juhyna project\\juhyna dal\\notification\\notification\\notificationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C89BAB-9A6F-B083-F95D-26D7EB7EC3B2}|..\\Juhyna DAL\\Juhyna DAL.csproj|d:\\juhyna project\\juhyna project\\juhyna dal\\models\\juhinadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NVIDIA PLUS\\AppData\\Roaming\\Microsoft\\UserSecrets\\28e5a0b6-7750-4e50-b9f1-963c58db31d1\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\juhyna api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:juhyna api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C89BAB-9A6F-B083-F95D-26D7EB7EC3B2}|..\\Juhyna DAL\\Juhyna DAL.csproj|d:\\juhyna project\\juhyna project\\juhyna dal\\reports\\reportsend\\reportsend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4C3CB3-EC53-B2C6-7280-E71EBA3B567C}|..\\Juhina BLL\\Juhyna BLL.csproj|d:\\juhyna project\\juhyna project\\juhina bll\\juhyna bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C89BAB-9A6F-B083-F95D-26D7EB7EC3B2}|..\\Juhyna DAL\\Juhyna DAL.csproj|d:\\juhyna project\\juhyna project\\juhyna dal\\notification\\interfce\\inotfifcationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\visitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\visitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\salesrelatedcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\salesrelatedcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\returnscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\returnscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\productininevevtorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\productininevevtorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\inventoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\inventoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\fillproductinventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\fillproductinventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\catogreycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\catogreycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2C89BAB-9A6F-B083-F95D-26D7EB7EC3B2}|..\\Juhyna DAL\\Juhyna DAL.csproj|d:\\juhyna project\\juhyna project\\juhyna dal\\return\\dto\\dtoreturnupdatebysale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -40,10 +116,6 @@
       "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:middleware\\authenticationmiddelware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9D4C3CB3-EC53-B2C6-7280-E71EBA3B567C}|..\\Juhina BLL\\Juhyna BLL.csproj|d:\\juhyna project\\juhyna project\\juhina bll\\invoices\\invoices\\clsinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -56,40 +128,12 @@
       "AbsoluteMoniker": "D:0:0:{A2C89BAB-9A6F-B083-F95D-26D7EB7EC3B2}|..\\Juhyna DAL\\Juhyna DAL.csproj|d:\\juhyna project\\juhyna project\\juhyna dal\\orders\\dataaccess\\clsdataaccessorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\visitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\visitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\shopsforcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\shopsforcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\salesrelatedcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\salesrelatedcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\productininevevtorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\productininevevtorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\inventoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\inventoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\fillproductinventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\fillproductinventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2C89BAB-9A6F-B083-F95D-26D7EB7EC3B2}|..\\Juhyna DAL\\Juhyna DAL.csproj|d:\\juhyna project\\juhyna project\\juhyna dal\\invoicesaleadminstrative\\mapper\\foloowingadminstrativesaleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -130,10 +174,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2C89BAB-9A6F-B083-F95D-26D7EB7EC3B2}|..\\Juhyna DAL\\Juhyna DAL.csproj|d:\\juhyna project\\juhyna project\\juhyna dal\\visits\\dto\\dtovisitadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D4C3CB3-EC53-B2C6-7280-E71EBA3B567C}|..\\Juhina BLL\\Juhyna BLL.csproj|d:\\juhyna project\\juhyna project\\juhina bll\\customerplace\\customerplace\\clscustomerplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -190,10 +230,6 @@
       "AbsoluteMoniker": "D:0:0:{A2C89BAB-9A6F-B083-F95D-26D7EB7EC3B2}|..\\Juhyna DAL\\Juhyna DAL.csproj|d:\\juhyna project\\juhyna project\\juhyna dal\\models\\invoicebetweensaleadminstrative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2C89BAB-9A6F-B083-F95D-26D7EB7EC3B2}|..\\Juhyna DAL\\Juhyna DAL.csproj|d:\\juhyna project\\juhyna project\\juhyna dal\\fillproductininventorybyadminstrative\\dataaccess\\clsdataaccessfillproductsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -236,10 +272,6 @@
       "AbsoluteMoniker": "D:0:0:{9D4C3CB3-EC53-B2C6-7280-E71EBA3B567C}|..\\Juhina BLL\\Juhyna BLL.csproj|d:\\juhyna project\\juhyna project\\juhina bll\\admins\\clsadmin\\clsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2C89BAB-9A6F-B083-F95D-26D7EB7EC3B2}|..\\Juhyna DAL\\Juhyna DAL.csproj|d:\\juhyna project\\juhyna project\\juhyna dal\\models\\tokensale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -261,23 +293,13 @@
       "AbsoluteMoniker": "D:0:0:{A2C89BAB-9A6F-B083-F95D-26D7EB7EC3B2}|..\\Juhyna DAL\\Juhyna DAL.csproj|d:\\juhyna project\\juhyna project\\juhyna dal\\services\\hashsha256\\hasing\\hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D4C3CB3-EC53-B2C6-7280-E71EBA3B567C}|..\\Juhina BLL\\Juhyna BLL.csproj|d:\\juhyna project\\juhyna project\\juhina bll\\juhyna bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9D4C3CB3-EC53-B2C6-7280-E71EBA3B567C}|..\\Juhina BLL\\Juhyna BLL.csproj|d:\\juhyna project\\juhyna project\\juhina bll\\token\\token\\tokenbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2C89BAB-9A6F-B083-F95D-26D7EB7EC3B2}|..\\Juhyna DAL\\Juhyna DAL.csproj|d:\\juhyna project\\juhyna project\\juhyna dal\\models\\juhinadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D4C3CB3-EC53-B2C6-7280-E71EBA3B567C}|..\\Juhina BLL\\Juhyna BLL.csproj|d:\\juhyna project\\juhyna project\\juhina bll\\token\\interface\\itokenbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D4C3CB3-EC53-B2C6-7280-E71EBA3B567C}|..\\Juhina BLL\\Juhyna BLL.csproj|d:\\juhyna project\\juhyna project\\juhina bll\\adminstrative\\adminstrative\\clsadminstrative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\catogreycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:controllers\\catogreycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -375,15 +397,6 @@
       "AbsoluteMoniker": "D:0:0:{A2C89BAB-9A6F-B083-F95D-26D7EB7EC3B2}|..\\Juhyna DAL\\Juhyna DAL.csproj|d:\\juhyna project\\juhyna project\\juhyna dal\\return\\dto\\dtoreturnread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D4C3CB3-EC53-B2C6-7280-E71EBA3B567C}|..\\Juhina BLL\\Juhyna BLL.csproj|d:\\juhyna project\\juhyna project\\juhina bll\\emailservice\\emailservicebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2C89BAB-9A6F-B083-F95D-26D7EB7EC3B2}|..\\Juhyna DAL\\Juhyna DAL.csproj|d:\\juhyna project\\juhyna project\\juhyna dal\\reports\\reportsend\\reportsend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2C89BAB-9A6F-B083-F95D-26D7EB7EC3B2}|..\\Juhyna DAL\\Juhyna DAL.csproj|d:\\juhyna project\\juhyna project\\juhyna dal\\emailservice\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2C89BAB-9A6F-B083-F95D-26D7EB7EC3B2}|..\\Juhyna DAL\\Juhyna DAL.csproj|d:\\juhyna project\\juhyna project\\juhyna dal\\reports\\preparereprots\\preparereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -395,10 +408,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\serviecs\\shedulerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:serviecs\\shedulerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\juhyna api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|solutionrelative:juhyna api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E36998DA-BB22-47AE-BE14-62DFE1A698DC}|Juhyna Api.csproj|d:\\juhyna project\\juhyna project\\juhyna api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -704,752 +713,282 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "clsDataAccessReturn.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DataAccessReturn\\clsDataAccessReturn.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Return\\DataAccessReturn\\clsDataAccessReturn.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DataAccessReturn\\clsDataAccessReturn.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Return\\DataAccessReturn\\clsDataAccessReturn.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T17:50:38.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReturnsController.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\ReturnsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ReturnsController.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\ReturnsController.cs",
-              "RelativeToolTip": "Controllers\\ReturnsController.cs",
-              "ViewState": "AgIAAAwBAAAAAAAAAAAAAB8BAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T10:37:02.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IReturnDAL.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\InterFace\\IReturnDAL.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Return\\InterFace\\IReturnDAL.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\InterFace\\IReturnDAL.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Return\\InterFace\\IReturnDAL.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T10:26:43.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IReturnBLL.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Return\\InterFace\\IReturnBLL.cs",
-              "RelativeDocumentMoniker": "..\\Juhina BLL\\Return\\InterFace\\IReturnBLL.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Return\\InterFace\\IReturnBLL.cs",
-              "RelativeToolTip": "..\\Juhina BLL\\Return\\InterFace\\IReturnBLL.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T10:32:41.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ClsReturn.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Return\\Return\\ClsReturn.cs",
-              "RelativeDocumentMoniker": "..\\Juhina BLL\\Return\\Return\\ClsReturn.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Return\\Return\\ClsReturn.cs",
-              "RelativeToolTip": "..\\Juhina BLL\\Return\\Return\\ClsReturn.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAewCgAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T10:32:24.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DtoReturnUpdateByAdminstrarive.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateByAdminstrarive.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateByAdminstrarive.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateByAdminstrarive.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateByAdminstrarive.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Title": "NotificationDAL.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Notification\\Notification\\NotificationDAL.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Notification\\Notification\\NotificationDAL.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Notification\\Notification\\NotificationDAL.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Notification\\Notification\\NotificationDAL.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T16:19:12.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAPYAAAAAAAAAAAAAAGQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T11:57:01.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DtoReturnUpdateBySale.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateBySale.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateBySale.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateBySale.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateBySale.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T16:18:19.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ClsDatacAccessInvoices.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DatacAccessInvoices\\ClsDatacAccessInvoices.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DatacAccessInvoices\\ClsDatacAccessInvoices.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DatacAccessInvoices\\ClsDatacAccessInvoices.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DatacAccessInvoices\\ClsDatacAccessInvoices.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAAAEQAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:41:08.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ClsInvoice.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Invoices\\Invoices\\ClsInvoice.cs",
-              "RelativeDocumentMoniker": "..\\Juhina BLL\\Invoices\\Invoices\\ClsInvoice.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Invoices\\Invoices\\ClsInvoice.cs",
-              "RelativeToolTip": "..\\Juhina BLL\\Invoices\\Invoices\\ClsInvoice.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAawDUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T12:45:04.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ExceptionHandling.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Middleware\\ExceptionHandling.cs",
-              "RelativeDocumentMoniker": "Middleware\\ExceptionHandling.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Middleware\\ExceptionHandling.cs",
-              "RelativeToolTip": "Middleware\\ExceptionHandling.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAhwBcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T07:16:09.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthenticationMiddelware.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Middleware\\AuthenticationMiddelware.cs",
-              "RelativeDocumentMoniker": "Middleware\\AuthenticationMiddelware.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Middleware\\AuthenticationMiddelware.cs",
-              "RelativeToolTip": "Middleware\\AuthenticationMiddelware.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAApwHgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T14:45:01.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ShopsForCustomersController.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\ShopsForCustomersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ShopsForCustomersController.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\ShopsForCustomersController.cs",
-              "RelativeToolTip": "Controllers\\ShopsForCustomersController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T13:34:00.86Z",
+              "WhenOpened": "2025-11-08T14:43:43.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "INotfifcationDAL.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Notification\\InterFce\\INotfifcationDAL.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Notification\\InterFce\\INotfifcationDAL.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Notification\\InterFce\\INotfifcationDAL.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Notification\\InterFce\\INotfifcationDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:04:37.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYBAAAAAAAAAAApwCIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:20:16.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JuhinaDBContext.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\JuhinaDBContext.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\JuhinaDBContext.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\JuhinaDBContext.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Models\\JuhinaDBContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T18:28:53.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Juhyna Api.csproj",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Juhyna Api.csproj",
+              "RelativeDocumentMoniker": "Juhyna Api.csproj",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Juhyna Api.csproj",
+              "RelativeToolTip": "Juhyna Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T13:17:19.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\NVIDIA PLUS\\AppData\\Roaming\\Microsoft\\UserSecrets\\28e5a0b6-7750-4e50-b9f1-963c58db31d1\\secrets.json",
+              "ToolTip": "C:\\Users\\NVIDIA PLUS\\AppData\\Roaming\\Microsoft\\UserSecrets\\28e5a0b6-7750-4e50-b9f1-963c58db31d1\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T17:16:57.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationBLL.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\NotificationService\\Notification\\NotificationBLL.cs",
+              "RelativeDocumentMoniker": "..\\Juhina BLL\\NotificationService\\Notification\\NotificationBLL.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\NotificationService\\Notification\\NotificationBLL.cs*",
+              "RelativeToolTip": "..\\Juhina BLL\\NotificationService\\Notification\\NotificationBLL.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:56:06.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InotificationBLL.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\NotificationService\\InterFace\\InotificationBLL.cs",
+              "RelativeDocumentMoniker": "..\\Juhina BLL\\NotificationService\\InterFace\\InotificationBLL.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\NotificationService\\InterFace\\InotificationBLL.cs",
+              "RelativeToolTip": "..\\Juhina BLL\\NotificationService\\InterFace\\InotificationBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:03:14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportSend.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Reports\\ReportSend\\ReportSend.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Reports\\ReportSend\\ReportSend.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Reports\\ReportSend\\ReportSend.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Reports\\ReportSend\\ReportSend.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T14:41:23.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAAABgBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:57:01.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "InvoicesController.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\InvoicesController.cs",
               "RelativeDocumentMoniker": "Controllers\\InvoicesController.cs",
               "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\InvoicesController.cs",
               "RelativeToolTip": "Controllers\\InvoicesController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAAAE8AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAGsBAAAAAAAAAAAAAHgBAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-28T17:15:51.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SalesController.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\SalesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SalesController.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\SalesController.cs",
-              "RelativeToolTip": "Controllers\\SalesController.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAAGsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T21:37:42.941Z",
+              "DocumentIndex": 10,
+              "Title": "Juhyna BLL.csproj",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Juhyna BLL.csproj",
+              "RelativeDocumentMoniker": "..\\Juhina BLL\\Juhyna BLL.csproj",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Juhyna BLL.csproj",
+              "RelativeToolTip": "..\\Juhina BLL\\Juhyna BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-17T13:05:57.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "OrderProfile.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\Mapper\\OrderProfile.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Orders\\Mapper\\OrderProfile.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\Mapper\\OrderProfile.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Orders\\Mapper\\OrderProfile.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T14:48:55.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DtoOrderRead.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\DTO\\DtoOrderRead.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Orders\\DTO\\DtoOrderRead.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\DTO\\DtoOrderRead.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Orders\\DTO\\DtoOrderRead.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T14:12:14.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ClsDataAccessOrder.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\DataAccess\\ClsDataAccessOrder.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Orders\\DataAccess\\ClsDataAccessOrder.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\DataAccess\\ClsDataAccessOrder.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Orders\\DataAccess\\ClsDataAccessOrder.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAArwDAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T14:47:37.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 12,
               "Title": "VisitsController.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\VisitsController.cs",
               "RelativeDocumentMoniker": "Controllers\\VisitsController.cs",
               "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\VisitsController.cs",
               "RelativeToolTip": "Controllers\\VisitsController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAAEoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T11:59:32.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 13,
               "Title": "SalesRelatedCustomersController.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\SalesRelatedCustomersController.cs",
               "RelativeDocumentMoniker": "Controllers\\SalesRelatedCustomersController.cs",
               "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\SalesRelatedCustomersController.cs",
               "RelativeToolTip": "Controllers\\SalesRelatedCustomersController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T21:37:40.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T21:37:40.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 14,
+              "Title": "ReturnsController.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\ReturnsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReturnsController.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\ReturnsController.cs",
+              "RelativeToolTip": "Controllers\\ReturnsController.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAAAB8BAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:37:02.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ProductinInevevtoryController.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\ProductinInevevtoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductinInevevtoryController.cs",
               "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\ProductinInevevtoryController.cs",
               "RelativeToolTip": "Controllers\\ProductinInevevtoryController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAIcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T22:40:20.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T22:40:20.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 16,
               "Title": "PaymentsController.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\PaymentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PaymentsController.cs",
               "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\PaymentsController.cs",
               "RelativeToolTip": "Controllers\\PaymentsController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T10:09:50.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T10:09:50.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 17,
               "Title": "InventoriesController.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\InventoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\InventoriesController.cs",
               "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\InventoriesController.cs",
               "RelativeToolTip": "Controllers\\InventoriesController.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAGwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T16:49:02.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T16:49:02.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 18,
               "Title": "FillProductInventoryController.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\FillProductInventoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\FillProductInventoryController.cs",
               "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\FillProductInventoryController.cs",
               "RelativeToolTip": "Controllers\\FillProductInventoryController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T17:43:57.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T17:43:57.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AdminsController.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\AdminsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminsController.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\AdminsController.cs",
-              "RelativeToolTip": "Controllers\\AdminsController.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T11:49:48.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "AdminstrativesController.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\AdminstrativesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminstrativesController.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\AdminstrativesController.cs",
-              "RelativeToolTip": "Controllers\\AdminstrativesController.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAAAGIAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T15:09:56.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "FoloowingAdminstrativeSaleProfile.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\Mapper\\FoloowingAdminstrativeSaleProfile.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\Mapper\\FoloowingAdminstrativeSaleProfile.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\Mapper\\FoloowingAdminstrativeSaleProfile.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\Mapper\\FoloowingAdminstrativeSaleProfile.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAC1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T12:38:20.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "DtoFollowingSaleAdminstrativeAddforadminstrativeReturned.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforadminstrativeReturned.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforadminstrativeReturned.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforadminstrativeReturned.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforadminstrativeReturned.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T22:23:44.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "DtoAdminStrativeUpdate.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Adminstrative\\DTO\\DtoAdminStrativeUpdate.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Adminstrative\\DTO\\DtoAdminStrativeUpdate.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Adminstrative\\DTO\\DtoAdminStrativeUpdate.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Adminstrative\\DTO\\DtoAdminStrativeUpdate.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T15:02:53.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "IAdminstrativeBLL.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\AdminStrative\\InterFace\\IAdminstrativeBLL.cs",
-              "RelativeDocumentMoniker": "..\\Juhina BLL\\AdminStrative\\InterFace\\IAdminstrativeBLL.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\AdminStrative\\InterFace\\IAdminstrativeBLL.cs",
-              "RelativeToolTip": "..\\Juhina BLL\\AdminStrative\\InterFace\\IAdminstrativeBLL.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAApwBIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T14:57:01.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "DtoOrderAdd.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\DTO\\DtoOrderAdd.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Orders\\DTO\\DtoOrderAdd.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\DTO\\DtoOrderAdd.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Orders\\DTO\\DtoOrderAdd.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBUAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T14:20:02.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "IInvoicesBLL.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Invoices\\Interface\\IInvoicesBLL.cs",
-              "RelativeDocumentMoniker": "..\\Juhina BLL\\Invoices\\Interface\\IInvoicesBLL.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Invoices\\Interface\\IInvoicesBLL.cs",
-              "RelativeToolTip": "..\\Juhina BLL\\Invoices\\Interface\\IInvoicesBLL.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAIA+wBcAAABzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T12:47:54.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "IInvoiceDAL.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\InterFace\\IInvoiceDAL.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\InterFace\\IInvoiceDAL.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\InterFace\\IInvoiceDAL.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\InterFace\\IInvoiceDAL.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAawAwAAABzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T12:46:41.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ClsCustomerPlace.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\CustomerPlace\\CustomerPlace\\ClsCustomerPlace.cs",
-              "RelativeDocumentMoniker": "..\\Juhina BLL\\CustomerPlace\\CustomerPlace\\ClsCustomerPlace.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\CustomerPlace\\CustomerPlace\\ClsCustomerPlace.cs",
-              "RelativeToolTip": "..\\Juhina BLL\\CustomerPlace\\CustomerPlace\\ClsCustomerPlace.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T17:56:37.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "DtoVisitAdd.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Visits\\DTO\\DtoVisitAdd.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Visits\\DTO\\DtoVisitAdd.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Visits\\DTO\\DtoVisitAdd.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Visits\\DTO\\DtoVisitAdd.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T22:13:19.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 19,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
               "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\CustomersController.cs",
               "RelativeToolTip": "Controllers\\CustomersController.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T15:20:12.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T15:20:12.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "DtoOrderAddReturned.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\DTO\\DtoOrderAddReturned.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Orders\\DTO\\DtoOrderAddReturned.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\DTO\\DtoOrderAddReturned.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Orders\\DTO\\DtoOrderAddReturned.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "CatogreyController.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\CatogreyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CatogreyController.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\CatogreyController.cs",
+              "RelativeToolTip": "Controllers\\CatogreyController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T14:33:37.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T10:46:10.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ClsVisit.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Visit\\Visit\\ClsVisit.cs",
-              "RelativeDocumentMoniker": "..\\Juhina BLL\\Visit\\Visit\\ClsVisit.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Visit\\Visit\\ClsVisit.cs",
-              "RelativeToolTip": "..\\Juhina BLL\\Visit\\Visit\\ClsVisit.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAmwDEAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminsController.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "Controllers\\AdminsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T13:39:29.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T11:49:48.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "ClsDataAccessVisit.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Visits\\DataAccesVisit\\ClsDataAccessVisit.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Visits\\DataAccesVisit\\ClsDataAccessVisit.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Visits\\DataAccesVisit\\ClsDataAccessVisit.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Visits\\DataAccesVisit\\ClsDataAccessVisit.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAuwG8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T13:40:16.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Visit.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\Visit.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\Visit.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\Visit.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Models\\Visit.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA+wBwAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T15:19:26.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "CustomerPlaceProfile.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\CustomerPlace\\Mapper\\CustomerPlaceProfile.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\CustomerPlace\\Mapper\\CustomerPlaceProfile.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\CustomerPlace\\Mapper\\CustomerPlaceProfile.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\CustomerPlace\\Mapper\\CustomerPlaceProfile.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T17:54:50.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "ICustomerPlace.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\CustomerPlace\\InterFace\\ICustomerPlace.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\CustomerPlace\\InterFace\\ICustomerPlace.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\CustomerPlace\\InterFace\\ICustomerPlace.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\CustomerPlace\\InterFace\\ICustomerPlace.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T17:55:36.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "ICustomerPlaceBLL.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\CustomerPlace\\InterFace\\ICustomerPlaceBLL.cs",
-              "RelativeDocumentMoniker": "..\\Juhina BLL\\CustomerPlace\\InterFace\\ICustomerPlaceBLL.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\CustomerPlace\\InterFace\\ICustomerPlaceBLL.cs",
-              "RelativeToolTip": "..\\Juhina BLL\\CustomerPlace\\InterFace\\ICustomerPlaceBLL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T17:56:40.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "IVisitBLL.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Visit\\InterFace\\IVisitBLL.cs",
-              "RelativeDocumentMoniker": "..\\Juhina BLL\\Visit\\InterFace\\IVisitBLL.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Visit\\InterFace\\IVisitBLL.cs",
-              "RelativeToolTip": "..\\Juhina BLL\\Visit\\InterFace\\IVisitBLL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T13:39:20.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "DtoVisitUpdate.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Visits\\DTO\\DtoVisitUpdate.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Visits\\DTO\\DtoVisitUpdate.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Visits\\DTO\\DtoVisitUpdate.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Visits\\DTO\\DtoVisitUpdate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T16:30:52.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "ClsDataAccessCustomerPlace.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\CustomerPlace\\DataAccessCustomerPlaces\\ClsDataAccessCustomerPlace.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\CustomerPlace\\DataAccessCustomerPlaces\\ClsDataAccessCustomerPlace.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\CustomerPlace\\DataAccessCustomerPlaces\\ClsDataAccessCustomerPlace.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\CustomerPlace\\DataAccessCustomerPlaces\\ClsDataAccessCustomerPlace.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T17:04:46.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "DTOCustomerPlaceRead.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\CustomerPlace\\DTO\\DTOCustomerPlaceRead.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\CustomerPlace\\DTO\\DTOCustomerPlaceRead.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\CustomerPlace\\DTO\\DTOCustomerPlaceRead.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\CustomerPlace\\DTO\\DTOCustomerPlaceRead.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T14:40:06.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "DtoVisitRead.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Visits\\DTO\\DtoVisitRead.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Visits\\DTO\\DtoVisitRead.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Visits\\DTO\\DtoVisitRead.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Visits\\DTO\\DtoVisitRead.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T13:40:28.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\Order.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\Order.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T15:35:05.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "DTOFollowingSaleAdminstrativeRead.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DTOFollowingSaleAdminstrativeRead.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DTOFollowingSaleAdminstrativeRead.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DTOFollowingSaleAdminstrativeRead.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DTOFollowingSaleAdminstrativeRead.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:40:56.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "DtoFollowingSaleAdminstrativeAddforSale.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforSale.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforSale.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforSale.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforSale.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:40:58.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "DtoFollowingSaleAdminstrativeAddforadminstrative.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforadminstrative.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforadminstrative.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforadminstrative.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforadminstrative.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:40:53.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "DtoFollowingSaleAdminstrarive.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrarive.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrarive.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrarive.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrarive.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T12:37:06.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "InvoicebetweenSaleAdminstrative.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\InvoicebetweenSaleAdminstrative.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\InvoicebetweenSaleAdminstrative.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\InvoicebetweenSaleAdminstrative.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Models\\InvoicebetweenSaleAdminstrative.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAwwCUAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:00:26.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "ProductInventory.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\ProductInventory.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\ProductInventory.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\ProductInventory.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Models\\ProductInventory.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAwwB0AAABxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T16:49:35.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "TokenDAL.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Tokens\\Token\\TokenDAL.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Tokens\\Token\\TokenDAL.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Tokens\\Token\\TokenDAL.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Tokens\\Token\\TokenDAL.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T15:02:41.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "JwtToken.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Services\\JWT\\JwtToken.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Services\\JWT\\JwtToken.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Services\\JWT\\JwtToken.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Services\\JWT\\JwtToken.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T11:56:57.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 22,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -1462,7 +1001,559 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DtoReturnUpdateByAdminstrarive.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateByAdminstrarive.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateByAdminstrarive.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateByAdminstrarive.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateByAdminstrarive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:19:12.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ClsReturn.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Return\\Return\\ClsReturn.cs",
+              "RelativeDocumentMoniker": "..\\Juhina BLL\\Return\\Return\\ClsReturn.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Return\\Return\\ClsReturn.cs",
+              "RelativeToolTip": "..\\Juhina BLL\\Return\\Return\\ClsReturn.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAewCgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:32:24.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IReturnBLL.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Return\\InterFace\\IReturnBLL.cs",
+              "RelativeDocumentMoniker": "..\\Juhina BLL\\Return\\InterFace\\IReturnBLL.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Return\\InterFace\\IReturnBLL.cs",
+              "RelativeToolTip": "..\\Juhina BLL\\Return\\InterFace\\IReturnBLL.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:32:41.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IReturnDAL.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\InterFace\\IReturnDAL.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Return\\InterFace\\IReturnDAL.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\InterFace\\IReturnDAL.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Return\\InterFace\\IReturnDAL.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:26:43.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clsDataAccessReturn.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DataAccessReturn\\clsDataAccessReturn.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Return\\DataAccessReturn\\clsDataAccessReturn.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DataAccessReturn\\clsDataAccessReturn.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Return\\DataAccessReturn\\clsDataAccessReturn.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:50:38.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DtoReturnUpdateBySale.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateBySale.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateBySale.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateBySale.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Return\\DTO\\DtoReturnUpdateBySale.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:18:19.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClsDatacAccessInvoices.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DatacAccessInvoices\\ClsDatacAccessInvoices.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DatacAccessInvoices\\ClsDatacAccessInvoices.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DatacAccessInvoices\\ClsDatacAccessInvoices.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DatacAccessInvoices\\ClsDatacAccessInvoices.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAEQAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T18:41:08.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ClsInvoice.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Invoices\\Invoices\\ClsInvoice.cs",
+              "RelativeDocumentMoniker": "..\\Juhina BLL\\Invoices\\Invoices\\ClsInvoice.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Invoices\\Invoices\\ClsInvoice.cs",
+              "RelativeToolTip": "..\\Juhina BLL\\Invoices\\Invoices\\ClsInvoice.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAawDUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:45:04.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ExceptionHandling.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Middleware\\ExceptionHandling.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionHandling.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Middleware\\ExceptionHandling.cs",
+              "RelativeToolTip": "Middleware\\ExceptionHandling.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAhwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:16:09.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthenticationMiddelware.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Middleware\\AuthenticationMiddelware.cs",
+              "RelativeDocumentMoniker": "Middleware\\AuthenticationMiddelware.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Middleware\\AuthenticationMiddelware.cs",
+              "RelativeToolTip": "Middleware\\AuthenticationMiddelware.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAApwHgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T14:45:01.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ShopsForCustomersController.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\ShopsForCustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopsForCustomersController.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\ShopsForCustomersController.cs",
+              "RelativeToolTip": "Controllers\\ShopsForCustomersController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T13:34:00.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalesController.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Controllers\\SalesController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAGsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T21:37:42.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderProfile.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\Mapper\\OrderProfile.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Orders\\Mapper\\OrderProfile.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\Mapper\\OrderProfile.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Orders\\Mapper\\OrderProfile.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:48:55.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DtoOrderRead.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\DTO\\DtoOrderRead.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Orders\\DTO\\DtoOrderRead.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\DTO\\DtoOrderRead.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Orders\\DTO\\DtoOrderRead.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:12:14.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ClsDataAccessOrder.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\DataAccess\\ClsDataAccessOrder.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Orders\\DataAccess\\ClsDataAccessOrder.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\DataAccess\\ClsDataAccessOrder.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Orders\\DataAccess\\ClsDataAccessOrder.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAArwDAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:47:37.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AdminstrativesController.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\AdminstrativesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminstrativesController.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\AdminstrativesController.cs",
+              "RelativeToolTip": "Controllers\\AdminstrativesController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAGIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:09:56.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FoloowingAdminstrativeSaleProfile.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\Mapper\\FoloowingAdminstrativeSaleProfile.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\Mapper\\FoloowingAdminstrativeSaleProfile.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\Mapper\\FoloowingAdminstrativeSaleProfile.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\Mapper\\FoloowingAdminstrativeSaleProfile.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAC1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:38:20.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DtoFollowingSaleAdminstrativeAddforadminstrativeReturned.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforadminstrativeReturned.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforadminstrativeReturned.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforadminstrativeReturned.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforadminstrativeReturned.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T22:23:44.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DtoAdminStrativeUpdate.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Adminstrative\\DTO\\DtoAdminStrativeUpdate.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Adminstrative\\DTO\\DtoAdminStrativeUpdate.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Adminstrative\\DTO\\DtoAdminStrativeUpdate.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Adminstrative\\DTO\\DtoAdminStrativeUpdate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:02:53.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IAdminstrativeBLL.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\AdminStrative\\InterFace\\IAdminstrativeBLL.cs",
+              "RelativeDocumentMoniker": "..\\Juhina BLL\\AdminStrative\\InterFace\\IAdminstrativeBLL.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\AdminStrative\\InterFace\\IAdminstrativeBLL.cs",
+              "RelativeToolTip": "..\\Juhina BLL\\AdminStrative\\InterFace\\IAdminstrativeBLL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAApwBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:57:01.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DtoOrderAdd.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\DTO\\DtoOrderAdd.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Orders\\DTO\\DtoOrderAdd.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\DTO\\DtoOrderAdd.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Orders\\DTO\\DtoOrderAdd.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:20:02.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IInvoicesBLL.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Invoices\\Interface\\IInvoicesBLL.cs",
+              "RelativeDocumentMoniker": "..\\Juhina BLL\\Invoices\\Interface\\IInvoicesBLL.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Invoices\\Interface\\IInvoicesBLL.cs",
+              "RelativeToolTip": "..\\Juhina BLL\\Invoices\\Interface\\IInvoicesBLL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA+wBcAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:47:54.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IInvoiceDAL.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\InterFace\\IInvoiceDAL.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\InterFace\\IInvoiceDAL.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\InterFace\\IInvoiceDAL.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\InterFace\\IInvoiceDAL.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAawAwAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:46:41.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ClsCustomerPlace.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\CustomerPlace\\CustomerPlace\\ClsCustomerPlace.cs",
+              "RelativeDocumentMoniker": "..\\Juhina BLL\\CustomerPlace\\CustomerPlace\\ClsCustomerPlace.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\CustomerPlace\\CustomerPlace\\ClsCustomerPlace.cs",
+              "RelativeToolTip": "..\\Juhina BLL\\CustomerPlace\\CustomerPlace\\ClsCustomerPlace.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:56:37.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DtoVisitAdd.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Visits\\DTO\\DtoVisitAdd.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Visits\\DTO\\DtoVisitAdd.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Visits\\DTO\\DtoVisitAdd.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Visits\\DTO\\DtoVisitAdd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T22:13:19.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DtoOrderAddReturned.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\DTO\\DtoOrderAddReturned.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Orders\\DTO\\DtoOrderAddReturned.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\DTO\\DtoOrderAddReturned.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Orders\\DTO\\DtoOrderAddReturned.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:33:37.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ClsVisit.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Visit\\Visit\\ClsVisit.cs",
+              "RelativeDocumentMoniker": "..\\Juhina BLL\\Visit\\Visit\\ClsVisit.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Visit\\Visit\\ClsVisit.cs",
+              "RelativeToolTip": "..\\Juhina BLL\\Visit\\Visit\\ClsVisit.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:39:29.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ClsDataAccessVisit.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Visits\\DataAccesVisit\\ClsDataAccessVisit.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Visits\\DataAccesVisit\\ClsDataAccessVisit.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Visits\\DataAccesVisit\\ClsDataAccessVisit.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Visits\\DataAccesVisit\\ClsDataAccessVisit.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAuwG8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T13:40:16.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\Visit.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\Visit.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\Visit.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Models\\Visit.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA+wBwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T15:19:26.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CustomerPlaceProfile.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\CustomerPlace\\Mapper\\CustomerPlaceProfile.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\CustomerPlace\\Mapper\\CustomerPlaceProfile.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\CustomerPlace\\Mapper\\CustomerPlaceProfile.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\CustomerPlace\\Mapper\\CustomerPlaceProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:54:50.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ICustomerPlace.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\CustomerPlace\\InterFace\\ICustomerPlace.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\CustomerPlace\\InterFace\\ICustomerPlace.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\CustomerPlace\\InterFace\\ICustomerPlace.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\CustomerPlace\\InterFace\\ICustomerPlace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:55:36.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ICustomerPlaceBLL.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\CustomerPlace\\InterFace\\ICustomerPlaceBLL.cs",
+              "RelativeDocumentMoniker": "..\\Juhina BLL\\CustomerPlace\\InterFace\\ICustomerPlaceBLL.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\CustomerPlace\\InterFace\\ICustomerPlaceBLL.cs",
+              "RelativeToolTip": "..\\Juhina BLL\\CustomerPlace\\InterFace\\ICustomerPlaceBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:56:40.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IVisitBLL.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Visit\\InterFace\\IVisitBLL.cs",
+              "RelativeDocumentMoniker": "..\\Juhina BLL\\Visit\\InterFace\\IVisitBLL.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Visit\\InterFace\\IVisitBLL.cs",
+              "RelativeToolTip": "..\\Juhina BLL\\Visit\\InterFace\\IVisitBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:39:20.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DtoVisitUpdate.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Visits\\DTO\\DtoVisitUpdate.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Visits\\DTO\\DtoVisitUpdate.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Visits\\DTO\\DtoVisitUpdate.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Visits\\DTO\\DtoVisitUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:30:52.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ClsDataAccessCustomerPlace.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\CustomerPlace\\DataAccessCustomerPlaces\\ClsDataAccessCustomerPlace.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\CustomerPlace\\DataAccessCustomerPlaces\\ClsDataAccessCustomerPlace.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\CustomerPlace\\DataAccessCustomerPlaces\\ClsDataAccessCustomerPlace.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\CustomerPlace\\DataAccessCustomerPlaces\\ClsDataAccessCustomerPlace.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:04:46.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DTOCustomerPlaceRead.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\CustomerPlace\\DTO\\DTOCustomerPlaceRead.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\CustomerPlace\\DTO\\DTOCustomerPlaceRead.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\CustomerPlace\\DTO\\DTOCustomerPlaceRead.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\CustomerPlace\\DTO\\DTOCustomerPlaceRead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:40:06.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DtoVisitRead.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Visits\\DTO\\DtoVisitRead.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Visits\\DTO\\DtoVisitRead.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Visits\\DTO\\DtoVisitRead.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Visits\\DTO\\DtoVisitRead.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T13:40:28.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\Order.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\Order.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T15:35:05.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DTOFollowingSaleAdminstrativeRead.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DTOFollowingSaleAdminstrativeRead.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DTOFollowingSaleAdminstrativeRead.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DTOFollowingSaleAdminstrativeRead.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DTOFollowingSaleAdminstrativeRead.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T18:40:56.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DtoFollowingSaleAdminstrativeAddforSale.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforSale.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforSale.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforSale.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforSale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T18:40:58.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DtoFollowingSaleAdminstrativeAddforadminstrative.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforadminstrative.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforadminstrative.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforadminstrative.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeAddforadminstrative.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T18:40:53.518Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 64,
+              "Title": "DtoFollowingSaleAdminstrarive.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrarive.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrarive.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrarive.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrarive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:37:06.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "InvoicebetweenSaleAdminstrative.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\InvoicebetweenSaleAdminstrative.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\InvoicebetweenSaleAdminstrative.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\InvoicebetweenSaleAdminstrative.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Models\\InvoicebetweenSaleAdminstrative.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T18:00:26.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ProductInventory.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\ProductInventory.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\ProductInventory.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\ProductInventory.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Models\\ProductInventory.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwB0AAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:49:35.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "TokenDAL.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Tokens\\Token\\TokenDAL.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Tokens\\Token\\TokenDAL.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Tokens\\Token\\TokenDAL.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Tokens\\Token\\TokenDAL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T15:02:41.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "JwtToken.cs",
+              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Services\\JWT\\JwtToken.cs",
+              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Services\\JWT\\JwtToken.cs",
+              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Services\\JWT\\JwtToken.cs",
+              "RelativeToolTip": "..\\Juhyna DAL\\Services\\JWT\\JwtToken.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:56:57.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
               "Title": "DtoProductInventoryAddReturned.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\ProductInventory\\DTO\\DtoProductInventoryAddReturned.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\ProductInventory\\DTO\\DtoProductInventoryAddReturned.cs",
@@ -1470,12 +1561,11 @@
               "RelativeToolTip": "..\\Juhyna DAL\\ProductInventory\\DTO\\DtoProductInventoryAddReturned.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T12:03:06.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T12:03:06.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 74,
               "Title": "DtoProductInventoryRead.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\ProductInventory\\DTO\\DtoProductInventoryRead.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\ProductInventory\\DTO\\DtoProductInventoryRead.cs",
@@ -1483,12 +1573,11 @@
               "RelativeToolTip": "..\\Juhyna DAL\\ProductInventory\\DTO\\DtoProductInventoryRead.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAkwBAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:13:10.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T10:13:10.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 71,
               "Title": "DtoManageProductWithAdminstrativeRead.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\FillProductInInventoryByAdminstrative\\DTO\\DtoManageProductWithAdminstrativeRead.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\FillProductInInventoryByAdminstrative\\DTO\\DtoManageProductWithAdminstrativeRead.cs",
@@ -1496,12 +1585,11 @@
               "RelativeToolTip": "..\\Juhyna DAL\\FillProductInInventoryByAdminstrative\\DTO\\DtoManageProductWithAdminstrativeRead.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:23:58.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T18:23:58.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 70,
               "Title": "ManageProductinInventory.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\FillProductInInventoryByAdminstrative\\Mapper\\ManageProductinInventory.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\FillProductInInventoryByAdminstrative\\Mapper\\ManageProductinInventory.cs",
@@ -1509,12 +1597,11 @@
               "RelativeToolTip": "..\\Juhyna DAL\\FillProductInInventoryByAdminstrative\\Mapper\\ManageProductinInventory.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAIwBUAAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:25:34.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T18:25:34.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 69,
               "Title": "ClsDataAccessFillProductsInventory.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\FillProductInInventoryByAdminstrative\\DataAccess\\ClsDataAccessFillProductsInventory.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\FillProductInInventoryByAdminstrative\\DataAccess\\ClsDataAccessFillProductsInventory.cs",
@@ -1522,12 +1609,11 @@
               "RelativeToolTip": "..\\Juhyna DAL\\FillProductInInventoryByAdminstrative\\DataAccess\\ClsDataAccessFillProductsInventory.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAAAFYAAACIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T17:03:04.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T17:03:04.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 73,
               "Title": "DtoExcahngeProductInventory.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\FillProductInInventoryByAdminstrative\\DTO\\DtoExcahngeProductInventory.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\FillProductInInventoryByAdminstrative\\DTO\\DtoExcahngeProductInventory.cs",
@@ -1535,12 +1621,11 @@
               "RelativeToolTip": "..\\Juhyna DAL\\FillProductInInventoryByAdminstrative\\DTO\\DtoExcahngeProductInventory.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T17:07:24.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T17:07:24.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 72,
               "Title": "DtoFillProductInventory.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\FillProductInInventoryByAdminstrative\\DTO\\DtoFillProductInventory.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\FillProductInInventoryByAdminstrative\\DTO\\DtoFillProductInventory.cs",
@@ -1548,12 +1633,11 @@
               "RelativeToolTip": "..\\Juhyna DAL\\FillProductInInventoryByAdminstrative\\DTO\\DtoFillProductInventory.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:23:52.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T18:23:52.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 76,
               "Title": "DtoFollowingSaleAdminstrativeupdateforSale.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeupdateforSale.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeupdateforSale.cs",
@@ -1561,12 +1645,11 @@
               "RelativeToolTip": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeupdateforSale.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T12:36:27.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T12:36:27.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 77,
               "Title": "DtoFollowingSaleAdminstrativeUpdateforAdminstrative.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeUpdateforAdminstrative.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeUpdateforAdminstrative.cs",
@@ -1574,12 +1657,11 @@
               "RelativeToolTip": "..\\Juhyna DAL\\InvoiceSaleAdminstrative\\DTO\\DtoFollowingSaleAdminstrativeUpdateforAdminstrative.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:41:00.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T18:41:00.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 78,
               "Title": "DTOCustomerPlaceAdd.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\CustomerPlace\\DTO\\DTOCustomerPlaceAdd.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\CustomerPlace\\DTO\\DTOCustomerPlaceAdd.cs",
@@ -1587,12 +1669,11 @@
               "RelativeToolTip": "..\\Juhyna DAL\\CustomerPlace\\DTO\\DTOCustomerPlaceAdd.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T14:40:11.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T14:40:11.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 81,
               "Title": "ClsDataAccessSales.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Sales\\DataAccessSales\\ClsDataAccessSales.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Sales\\DataAccessSales\\ClsDataAccessSales.cs",
@@ -1604,7 +1685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 80,
               "Title": "ClsDataAccessAdminStrative.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Adminstrative\\DataAccessAdminstrative\\ClsDataAccessAdminStrative.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Adminstrative\\DataAccessAdminstrative\\ClsDataAccessAdminStrative.cs",
@@ -1616,7 +1697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 86,
               "Title": "HashingBLL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Hashing\\Hashing\\HashingBLL.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\Hashing\\Hashing\\HashingBLL.cs",
@@ -1628,7 +1709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 79,
               "Title": "ClsDataAccessAdmins.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Admins\\DataaccessAdmin\\ClsDataAccessAdmins.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Admins\\DataaccessAdmin\\ClsDataAccessAdmins.cs",
@@ -1636,24 +1717,11 @@
               "RelativeToolTip": "..\\Juhyna DAL\\Admins\\DataaccessAdmin\\ClsDataAccessAdmins.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAAAJgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T13:05:30.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T13:05:30.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAOYAAAAAAAAAAAAAAPgAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T07:20:16.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 82,
               "Title": "ClsAdmin.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Admins\\ClsAdmin\\ClsAdmin.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\Admins\\ClsAdmin\\ClsAdmin.cs",
@@ -1665,7 +1733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 87,
               "Title": "IHashingBLL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Hashing\\InterFace\\IHashingBLL.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\Hashing\\InterFace\\IHashingBLL.cs",
@@ -1677,7 +1745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 85,
               "Title": "TokenAdmin.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\TokenAdmin.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\TokenAdmin.cs",
@@ -1689,7 +1757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 83,
               "Title": "TokenSale.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\TokenSale.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\TokenSale.cs",
@@ -1701,7 +1769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 220,
+              "DocumentIndex": 223,
               "Title": "20251110000510_kq2.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251110000510_kq2.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251110000510_kq2.cs",
@@ -1713,7 +1781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 84,
               "Title": "TokenAdminstrative.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\TokenAdminstrative.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\TokenAdminstrative.cs",
@@ -1725,7 +1793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 221,
+              "DocumentIndex": 224,
               "Title": "20251109235457_kq1.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251109235457_kq1.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251109235457_kq1.cs",
@@ -1737,7 +1805,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 88,
               "Title": "IhashingDal.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Services\\HashShA256\\NewFolder\\IhashingDal.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Services\\HashShA256\\NewFolder\\IhashingDal.cs",
@@ -1749,7 +1817,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 89,
               "Title": "Hashing.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Services\\HashShA256\\Hasing\\Hashing.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Services\\HashShA256\\Hasing\\Hashing.cs",
@@ -1761,7 +1829,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 90,
               "Title": "TokenBLL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Token\\Token\\TokenBLL.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\Token\\Token\\TokenBLL.cs",
@@ -1773,31 +1841,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
-              "Title": "JuhinaDBContext.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\JuhinaDBContext.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\JuhinaDBContext.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\JuhinaDBContext.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Models\\JuhinaDBContext.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAA+wDwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:28:53.66Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 80,
-              "Title": "Juhyna BLL.csproj",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Juhyna BLL.csproj",
-              "RelativeDocumentMoniker": "..\\Juhina BLL\\Juhyna BLL.csproj",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Juhyna BLL.csproj",
-              "RelativeToolTip": "..\\Juhina BLL\\Juhyna BLL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-17T13:05:57.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 219,
+              "DocumentIndex": 222,
               "Title": "20251109203928_mm1.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251109203928_mm1.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251109203928_mm1.cs",
@@ -1809,7 +1853,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 91,
               "Title": "ItokenBLL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Token\\InterFace\\ItokenBLL.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\Token\\InterFace\\ItokenBLL.cs",
@@ -1821,7 +1865,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 92,
               "Title": "ClsAdminStrative.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\AdminStrative\\Adminstrative\\ClsAdminStrative.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\AdminStrative\\Adminstrative\\ClsAdminStrative.cs",
@@ -1833,19 +1877,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
-              "Title": "CatogreyController.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\CatogreyController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CatogreyController.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\CatogreyController.cs",
-              "RelativeToolTip": "Controllers\\CatogreyController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAADQAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T10:46:10.435Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 93,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
@@ -1857,7 +1889,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 98,
               "Title": "Juhyna DAL.csproj",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Juhyna DAL.csproj",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Juhyna DAL.csproj",
@@ -1865,11 +1897,12 @@
               "RelativeToolTip": "..\\Juhyna DAL\\Juhyna DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-28T18:13:01.276Z"
+              "WhenOpened": "2025-09-28T18:13:01.276Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 94,
               "Title": "DailyProfitNet.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\FluentScedule\\DailyProfitNet.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\FluentScedule\\DailyProfitNet.cs",
@@ -1881,7 +1914,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 95,
               "Title": "JopRegistry.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\FluentScedule\\JopRegistry.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\FluentScedule\\JopRegistry.cs",
@@ -1893,7 +1926,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 96,
               "Title": "ItokenDal.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Tokens\\InterFace\\ItokenDal.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Tokens\\InterFace\\ItokenDal.cs",
@@ -1905,7 +1938,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 97,
               "Title": "Juhyna Api.http",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Juhyna Api.http",
               "RelativeDocumentMoniker": "Juhyna Api.http",
@@ -1917,7 +1950,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 99,
               "Title": "ISalesBLL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Sales\\InterFace\\ISalesBLL.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\Sales\\InterFace\\ISalesBLL.cs",
@@ -1929,7 +1962,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 100,
               "Title": "ClsSales.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Sales\\clsSales\\ClsSales.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\Sales\\clsSales\\ClsSales.cs",
@@ -1941,7 +1974,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 101,
               "Title": "IAdminBLL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Admins\\InterFace\\IAdminBLL.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\Admins\\InterFace\\IAdminBLL.cs",
@@ -1953,7 +1986,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 102,
               "Title": "ISales.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Sales\\InterFace\\ISales.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Sales\\InterFace\\ISales.cs",
@@ -1965,7 +1998,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 103,
               "Title": "IAdminstrative.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Adminstrative\\InterFace\\IAdminstrative.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Adminstrative\\InterFace\\IAdminstrative.cs",
@@ -1977,7 +2010,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 104,
               "Title": "IAdminDAL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Admins\\InterFace\\IAdminDAL.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Admins\\InterFace\\IAdminDAL.cs",
@@ -1989,7 +2022,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 215,
+              "DocumentIndex": 218,
               "Title": "20251109125908_updates.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251109125908_updates.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251109125908_updates.cs",
@@ -2001,7 +2034,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 105,
               "Title": "Sale.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\Sale.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\Sale.cs",
@@ -2013,7 +2046,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 106,
               "Title": "Adminstrative.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\Adminstrative.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\Adminstrative.cs",
@@ -2025,7 +2058,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 107,
               "Title": "20251109125734_updates.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251109125734_updates.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251109125734_updates.cs",
@@ -2037,7 +2070,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 109,
               "Title": "Return.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\Return.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\Return.cs",
@@ -2049,7 +2082,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 108,
               "Title": "Admin.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\Admin.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\Admin.cs",
@@ -2061,7 +2094,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 216,
+              "DocumentIndex": 219,
               "Title": "20251109120313_addtokentab.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251109120313_addtokentab.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251109120313_addtokentab.cs",
@@ -2073,7 +2106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 217,
+              "DocumentIndex": 220,
               "Title": "20251109120143_addtokentabl.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251109120143_addtokentabl.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251109120143_addtokentabl.cs",
@@ -2085,7 +2118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 218,
+              "DocumentIndex": 221,
               "Title": "20251109120111_addtokentable.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251109120111_addtokentable.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251109120111_addtokentable.cs",
@@ -2097,7 +2130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 110,
               "Title": "IToken.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Services\\InterFace Token\\IToken.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Services\\InterFace Token\\IToken.cs",
@@ -2109,7 +2142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 111,
               "Title": "DtoToken.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Services\\DTO Token\\DtoToken.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Services\\DTO Token\\DtoToken.cs",
@@ -2121,7 +2154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 113,
               "Title": "IproductBLL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Products\\InterFace\\IproductBLL.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\Products\\InterFace\\IproductBLL.cs",
@@ -2133,7 +2166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 112,
               "Title": "ProductBLL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Products\\Product\\ProductBLL.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\Products\\Product\\ProductBLL.cs",
@@ -2145,7 +2178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 114,
               "Title": "IproductDAL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Products\\InterFace\\IproductDAL.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Products\\InterFace\\IproductDAL.cs",
@@ -2157,7 +2190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 115,
               "Title": "ProductDAL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Products\\Products\\ProductDAL.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Products\\Products\\ProductDAL.cs",
@@ -2169,7 +2202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 116,
               "Title": "ProductProfile.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Products\\Mapper\\ProductProfile.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Products\\Mapper\\ProductProfile.cs",
@@ -2181,7 +2214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 117,
               "Title": "DTOproductAdd.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Products\\Dto\\DTOproductAdd.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Products\\Dto\\DTOproductAdd.cs",
@@ -2193,7 +2226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 118,
               "Title": "dtoproductUpdate.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Products\\Dto\\dtoproductUpdate.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Products\\Dto\\dtoproductUpdate.cs",
@@ -2205,7 +2238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 119,
               "Title": "DTOProducctRead.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Products\\Dto\\DTOProducctRead.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Products\\Dto\\DTOProducctRead.cs",
@@ -2217,7 +2250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 114,
+              "DocumentIndex": 121,
               "Title": "PaymentMethod.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\PaymentMethod\\Paymentmethod\\PaymentMethod.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\PaymentMethod\\Paymentmethod\\PaymentMethod.cs",
@@ -2229,7 +2262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 120,
               "Title": "PaymentProfile.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\PaymentMethod\\Mapper\\PaymentProfile.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\PaymentMethod\\Mapper\\PaymentProfile.cs",
@@ -2241,7 +2274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 122,
               "Title": "ClsDataAccessProductInevntory.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\ProductInventory\\DataAcceaaManageProduct\\ClsDataAccessProductInevntory.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\ProductInventory\\DataAcceaaManageProduct\\ClsDataAccessProductInevntory.cs",
@@ -2253,7 +2286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
+              "DocumentIndex": 123,
               "Title": "DtoReturnRead.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DTO\\DtoReturnRead.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Return\\DTO\\DtoReturnRead.cs",
@@ -2265,43 +2298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 117,
-              "Title": "EmailServiceBLL.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\EmailService\\EmailServiceBLL.cs",
-              "RelativeDocumentMoniker": "..\\Juhina BLL\\EmailService\\EmailServiceBLL.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\EmailService\\EmailServiceBLL.cs",
-              "RelativeToolTip": "..\\Juhina BLL\\EmailService\\EmailServiceBLL.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:56:06.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 118,
-              "Title": "ReportSend.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Reports\\ReportSend\\ReportSend.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\Reports\\ReportSend\\ReportSend.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Reports\\ReportSend\\ReportSend.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\Reports\\ReportSend\\ReportSend.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T14:41:23.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 119,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\EmailService\\EmailService.cs",
-              "RelativeDocumentMoniker": "..\\Juhyna DAL\\EmailService\\EmailService.cs",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\EmailService\\EmailService.cs",
-              "RelativeToolTip": "..\\Juhyna DAL\\EmailService\\EmailService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T14:43:43.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 120,
+              "DocumentIndex": 124,
               "Title": "PrepareReport.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Reports\\PrepareReprots\\PrepareReport.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Reports\\PrepareReprots\\PrepareReport.cs",
@@ -2313,7 +2310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 121,
+              "DocumentIndex": 125,
               "Title": "IReportDAL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Reports\\InterFace\\IReportDAL.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Reports\\InterFace\\IReportDAL.cs",
@@ -2325,7 +2322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 122,
+              "DocumentIndex": 126,
               "Title": "DtoAdminRead.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Admins\\DTOAdmin\\DtoAdminRead.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Admins\\DTOAdmin\\DtoAdminRead.cs",
@@ -2337,7 +2334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 123,
+              "DocumentIndex": 127,
               "Title": "SheduleRunner.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Serviecs\\SheduleRunner.cs",
               "RelativeDocumentMoniker": "Serviecs\\SheduleRunner.cs",
@@ -2349,19 +2346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 124,
-              "Title": "Juhyna Api.csproj",
-              "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Juhyna Api.csproj",
-              "RelativeDocumentMoniker": "Juhyna Api.csproj",
-              "ToolTip": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\Juhyna Api.csproj",
-              "RelativeToolTip": "Juhyna Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-22T13:17:19.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 131,
+              "DocumentIndex": 134,
               "Title": "IPaymentDAL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\PaymentMethod\\InterFace\\IPaymentDAL.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\PaymentMethod\\InterFace\\IPaymentDAL.cs",
@@ -2373,7 +2358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 130,
+              "DocumentIndex": 133,
               "Title": "DtoCatogreyRead.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Catogrey\\DTO\\DtoCatogreyRead.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Catogrey\\DTO\\DtoCatogreyRead.cs",
@@ -2385,7 +2370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 125,
+              "DocumentIndex": 128,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna Api\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -2397,7 +2382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 126,
+              "DocumentIndex": 129,
               "Title": "CatogreyBLL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Catogrey\\Catogrey\\CatogreyBLL.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\Catogrey\\Catogrey\\CatogreyBLL.cs",
@@ -2409,7 +2394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 127,
+              "DocumentIndex": 130,
               "Title": "IcatogreyBLL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Catogrey\\InterFace\\IcatogreyBLL.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\Catogrey\\InterFace\\IcatogreyBLL.cs",
@@ -2421,7 +2406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 128,
+              "DocumentIndex": 131,
               "Title": "ICatogreyDAL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Catogrey\\InterFace\\ICatogreyDAL.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Catogrey\\InterFace\\ICatogreyDAL.cs",
@@ -2433,7 +2418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 129,
+              "DocumentIndex": 132,
               "Title": "CatogreyDAL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Catogrey\\Catogrey\\CatogreyDAL.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Catogrey\\Catogrey\\CatogreyDAL.cs",
@@ -2445,7 +2430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 132,
+              "DocumentIndex": 135,
               "Title": "CatogreyProfile.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Catogrey\\Mapper\\CatogreyProfile.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Catogrey\\Mapper\\CatogreyProfile.cs",
@@ -2457,7 +2442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 133,
+              "DocumentIndex": 136,
               "Title": "PaymentMethod.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Payment\\Paymentmethod\\PaymentMethod.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\Payment\\Paymentmethod\\PaymentMethod.cs",
@@ -2469,7 +2454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 135,
+              "DocumentIndex": 138,
               "Title": "DtoPaymentRead.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\PaymentMethod\\DTO\\DtoPaymentRead.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\PaymentMethod\\DTO\\DtoPaymentRead.cs",
@@ -2481,7 +2466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 134,
+              "DocumentIndex": 137,
               "Title": "IpaymentBLL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Payment\\InterFace\\IpaymentBLL.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\Payment\\InterFace\\IpaymentBLL.cs",
@@ -2493,7 +2478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 136,
+              "DocumentIndex": 139,
               "Title": "AdminstrativeProfile.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Adminstrative\\Mapper\\AdminstrativeProfile.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Adminstrative\\Mapper\\AdminstrativeProfile.cs",
@@ -2505,7 +2490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 138,
+              "DocumentIndex": 141,
               "Title": "IInventoryBLL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Inevntory\\InterFace\\IInventoryBLL.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\Inevntory\\InterFace\\IInventoryBLL.cs",
@@ -2517,7 +2502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 139,
+              "DocumentIndex": 142,
               "Title": "InventoryBLL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Inevntory\\Inventory\\InventoryBLL.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\Inevntory\\Inventory\\InventoryBLL.cs",
@@ -2529,7 +2514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 142,
+              "DocumentIndex": 145,
               "Title": "Inventorymapper.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Inventory\\Mapper\\Inventorymapper.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Inventory\\Mapper\\Inventorymapper.cs",
@@ -2541,7 +2526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 141,
+              "DocumentIndex": 144,
               "Title": "InventoryDAL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Inventory\\Inventory\\InventoryDAL.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Inventory\\Inventory\\InventoryDAL.cs",
@@ -2553,7 +2538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 137,
+              "DocumentIndex": 140,
               "Title": "AdminProfiles.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Admins\\Mapper\\AdminProfiles.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Admins\\Mapper\\AdminProfiles.cs",
@@ -2565,7 +2550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 140,
+              "DocumentIndex": 143,
               "Title": "IInventoryDAL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Inventory\\InterFace\\IInventoryDAL.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Inventory\\InterFace\\IInventoryDAL.cs",
@@ -2577,7 +2562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 143,
+              "DocumentIndex": 146,
               "Title": "Person.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\Person.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\Person.cs",
@@ -2589,7 +2574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 146,
+              "DocumentIndex": 149,
               "Title": "ClsDataAccessSaleCustomer.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\SaleCustomer\\DataAccessSaleCustomer\\ClsDataAccessSaleCustomer.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\SaleCustomer\\DataAccessSaleCustomer\\ClsDataAccessSaleCustomer.cs",
@@ -2601,7 +2586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 144,
+              "DocumentIndex": 147,
               "Title": "SalesProfile.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Sales\\Mapper\\SalesProfile.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Sales\\Mapper\\SalesProfile.cs",
@@ -2613,7 +2598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 145,
+              "DocumentIndex": 148,
               "Title": "DTOSaleCustomerAdd.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\SaleCustomer\\DTO\\DTOSaleCustomerAdd.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\SaleCustomer\\DTO\\DTOSaleCustomerAdd.cs",
@@ -2625,7 +2610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 147,
+              "DocumentIndex": 150,
               "Title": "SalesCustomer.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\SalesCustomer.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\SalesCustomer.cs",
@@ -2637,7 +2622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 148,
+              "DocumentIndex": 151,
               "Title": "DtoInventoryRead.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Inventory\\Dto\\DtoInventoryRead.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Inventory\\Dto\\DtoInventoryRead.cs",
@@ -2649,7 +2634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 151,
+              "DocumentIndex": 154,
               "Title": "Inventory.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\Inventory.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\Inventory.cs",
@@ -2661,7 +2646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 213,
+              "DocumentIndex": 216,
               "Title": "20251025163032_mk.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251025163032_mk.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251025163032_mk.cs",
@@ -2673,7 +2658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 214,
+              "DocumentIndex": 217,
               "Title": "20251025163216_m.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251025163216_m.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251025163216_m.cs",
@@ -2685,7 +2670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 150,
+              "DocumentIndex": 153,
               "Title": "DTOSalesAdd.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Sales\\DtoSales\\DTOSalesAdd.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Sales\\DtoSales\\DTOSalesAdd.cs",
@@ -2697,7 +2682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 149,
+              "DocumentIndex": 152,
               "Title": "DTOSalesUpdate.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Sales\\DtoSales\\DTOSalesUpdate.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Sales\\DtoSales\\DTOSalesUpdate.cs",
@@ -2709,7 +2694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 152,
+              "DocumentIndex": 155,
               "Title": "JuhinaDBContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\JuhinaDBContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\JuhinaDBContextModelSnapshot.cs",
@@ -2721,7 +2706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 154,
+              "DocumentIndex": 157,
               "Title": "DtoLogin.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\DTOPublic\\DtoLogin.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\DTOPublic\\DtoLogin.cs",
@@ -2733,7 +2718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 153,
+              "DocumentIndex": 156,
               "Title": "DToChangePassword.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\DTOPublic\\DToChangePassword.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\DTOPublic\\DToChangePassword.cs",
@@ -2745,7 +2730,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 155,
+              "DocumentIndex": 158,
               "Title": "DtoInventoryAdd.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Inventory\\Dto\\DtoInventoryAdd.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Inventory\\Dto\\DtoInventoryAdd.cs",
@@ -2757,7 +2742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 156,
+              "DocumentIndex": 159,
               "Title": "ReturnProfile.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\Mapper\\ReturnProfile.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Return\\Mapper\\ReturnProfile.cs",
@@ -2769,7 +2754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 157,
+              "DocumentIndex": 160,
               "Title": "FillProductinInventory.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\FillProductinInventory.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\FillProductinInventory.cs",
@@ -2781,7 +2766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 158,
+              "DocumentIndex": 161,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\Customer.cs",
@@ -2793,7 +2778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 159,
+              "DocumentIndex": 162,
               "Title": "DTOAdminStrativeAdd.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Adminstrative\\DTO\\DTOAdminStrativeAdd.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Adminstrative\\DTO\\DTOAdminStrativeAdd.cs",
@@ -2805,7 +2790,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 160,
+              "DocumentIndex": 163,
               "Title": "DTOAdminstrativeRead.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Adminstrative\\DTO\\DTOAdminstrativeRead.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Adminstrative\\DTO\\DTOAdminstrativeRead.cs",
@@ -2817,7 +2802,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 212,
+              "DocumentIndex": 215,
               "Title": "20251025142540_mm.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251025142540_mm.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251025142540_mm.cs",
@@ -2829,7 +2814,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 161,
+              "DocumentIndex": 164,
               "Title": "ManageProductProfile.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\ProductInventory\\mapper\\ManageProductProfile.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\ProductInventory\\mapper\\ManageProductProfile.cs",
@@ -2841,7 +2826,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 211,
+              "DocumentIndex": 214,
               "Title": "20251024154727_Updati.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251024154727_Updati.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251024154727_Updati.cs",
@@ -2853,7 +2838,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 162,
+              "DocumentIndex": 165,
               "Title": "20251016130314_Initial.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016130314_Initial.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016130314_Initial.cs",
@@ -2865,7 +2850,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 163,
+              "DocumentIndex": 166,
               "Title": "20251024145134_Updation.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251024145134_Updation.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251024145134_Updation.cs",
@@ -2877,7 +2862,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 164,
+              "DocumentIndex": 167,
               "Title": "IVisitDAL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Visits\\Interface\\IVisitDAL.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Visits\\Interface\\IVisitDAL.cs",
@@ -2889,7 +2874,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 165,
+              "DocumentIndex": 168,
               "Title": "DtoProductInventoryAdd.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\ProductInventory\\DTO\\DtoProductInventoryAdd.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\ProductInventory\\DTO\\DtoProductInventoryAdd.cs",
@@ -2901,7 +2886,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 166,
+              "DocumentIndex": 169,
               "Title": "ClsDataAccessCustomer.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Customer\\DataAccessCustmer\\ClsDataAccessCustomer.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Customer\\DataAccessCustmer\\ClsDataAccessCustomer.cs",
@@ -2913,7 +2898,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 168,
+              "DocumentIndex": 171,
               "Title": "DtoAdminUpdate.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Admins\\DTOAdmin\\DtoAdminUpdate.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Admins\\DTOAdmin\\DtoAdminUpdate.cs",
@@ -2925,7 +2910,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 169,
+              "DocumentIndex": 172,
               "Title": "DtoAdminAdd.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Admins\\DTOAdmin\\DtoAdminAdd.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Admins\\DTOAdmin\\DtoAdminAdd.cs",
@@ -2937,7 +2922,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 210,
+              "DocumentIndex": 213,
               "Title": "20251020150544_K1.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251020150544_K1.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251020150544_K1.cs",
@@ -2949,7 +2934,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 170,
+              "DocumentIndex": 173,
               "Title": "ValidationBLL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Validation\\ValidationBLL.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\Validation\\ValidationBLL.cs",
@@ -2961,7 +2946,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 171,
+              "DocumentIndex": 174,
               "Title": "ClsOrder.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Order\\Order\\ClsOrder.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\Order\\Order\\ClsOrder.cs",
@@ -2973,7 +2958,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 172,
+              "DocumentIndex": 175,
               "Title": "IOrderBLL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\Order\\InterFace\\IOrderBLL.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\Order\\InterFace\\IOrderBLL.cs",
@@ -2985,7 +2970,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 173,
+              "DocumentIndex": 176,
               "Title": "IProductInventoryDAL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\ProductInventory\\InterFace\\IProductInventoryDAL.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\ProductInventory\\InterFace\\IProductInventoryDAL.cs",
@@ -2997,7 +2982,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 174,
+              "DocumentIndex": 177,
               "Title": "DToOrderUpdate.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\DTO\\DToOrderUpdate.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Orders\\DTO\\DToOrderUpdate.cs",
@@ -3009,7 +2994,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 176,
+              "DocumentIndex": 179,
               "Title": "PaymentMethodBLL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\PaymentMethodBLL.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\PaymentMethodBLL.cs",
@@ -3021,7 +3006,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 175,
+              "DocumentIndex": 178,
               "Title": "IOrderDAL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Orders\\InterFace\\IOrderDAL.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Orders\\InterFace\\IOrderDAL.cs",
@@ -3033,7 +3018,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 204,
+              "DocumentIndex": 207,
               "Title": "20251016143657_Change9.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016143657_Change9.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016143657_Change9.cs",
@@ -3045,7 +3030,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 177,
+              "DocumentIndex": 180,
               "Title": "20251016143146_Change8.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016143146_Change8.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016143146_Change8.cs",
@@ -3057,7 +3042,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 205,
+              "DocumentIndex": 208,
               "Title": "20251016142948_Change7.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016142948_Change7.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016142948_Change7.cs",
@@ -3069,7 +3054,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 206,
+              "DocumentIndex": 209,
               "Title": "20251016142836_Change6.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016142836_Change6.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016142836_Change6.cs",
@@ -3081,7 +3066,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 178,
+              "DocumentIndex": 181,
               "Title": "20251016141821_Change6.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016141821_Change6.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016141821_Change6.cs",
@@ -3092,7 +3077,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 167,
+              "DocumentIndex": 170,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\Product.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\Product.cs",
@@ -3104,7 +3089,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 207,
+              "DocumentIndex": 210,
               "Title": "20251016140817_Change5.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016140817_Change5.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016140817_Change5.cs",
@@ -3116,7 +3101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 208,
+              "DocumentIndex": 211,
               "Title": "20251016134005_Change2.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016134005_Change2.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016134005_Change2.cs",
@@ -3128,7 +3113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 209,
+              "DocumentIndex": 212,
               "Title": "20251016130524_Change1.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016130524_Change1.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016130524_Change1.cs",
@@ -3140,7 +3125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 179,
+              "DocumentIndex": 182,
               "Title": "20251016130130_Change2.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016130130_Change2.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016130130_Change2.cs",
@@ -3151,7 +3136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 180,
+              "DocumentIndex": 183,
               "Title": "20251016130005_Change2.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016130005_Change2.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016130005_Change2.cs",
@@ -3162,7 +3147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 181,
+              "DocumentIndex": 184,
               "Title": "20251016124912_mmm.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016124912_mmm.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016124912_mmm.cs",
@@ -3173,7 +3158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 182,
+              "DocumentIndex": 185,
               "Title": "20251016124738_mmm.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016124738_mmm.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016124738_mmm.cs",
@@ -3184,7 +3169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 183,
+              "DocumentIndex": 186,
               "Title": "20251016124158_mmm.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016124158_mmm.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016124158_mmm.cs",
@@ -3195,7 +3180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 184,
+              "DocumentIndex": 187,
               "Title": "20251016123924_Change5.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016123924_Change5.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016123924_Change5.cs",
@@ -3206,7 +3191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 185,
+              "DocumentIndex": 188,
               "Title": "20251016113610_Change2.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016113610_Change2.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016113610_Change2.cs",
@@ -3217,7 +3202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 186,
+              "DocumentIndex": 189,
               "Title": "Place.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Models\\Place.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Models\\Place.cs",
@@ -3229,7 +3214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 187,
+              "DocumentIndex": 190,
               "Title": "20251016112514_Change.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016112514_Change.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016112514_Change.cs",
@@ -3240,7 +3225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 188,
+              "DocumentIndex": 191,
               "Title": "20251016110414_willupdteee.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016110414_willupdteee.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016110414_willupdteee.cs",
@@ -3251,7 +3236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 189,
+              "DocumentIndex": 192,
               "Title": "20251016110009_willupdte.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016110009_willupdte.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016110009_willupdte.cs",
@@ -3262,7 +3247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 190,
+              "DocumentIndex": 193,
               "Title": "20251016105605_updttt.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016105605_updttt.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016105605_updttt.cs",
@@ -3273,7 +3258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 191,
+              "DocumentIndex": 194,
               "Title": "20251016104146_updt.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20251016104146_updt.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20251016104146_updt.cs",
@@ -3284,7 +3269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 194,
+              "DocumentIndex": 197,
               "Title": "DtoReturnAddBySaleReturned.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DTO\\DtoReturnAddBySaleReturned.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Return\\DTO\\DtoReturnAddBySaleReturned.cs",
@@ -3296,7 +3281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 193,
+              "DocumentIndex": 196,
               "Title": "DtoReturnAddBySale.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DTO\\DtoReturnAddBySale.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Return\\DTO\\DtoReturnAddBySale.cs",
@@ -3304,12 +3289,11 @@
               "RelativeToolTip": "..\\Juhyna DAL\\Return\\DTO\\DtoReturnAddBySale.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T18:08:01.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T18:08:01.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 192,
+              "DocumentIndex": 195,
               "Title": "DtoReturnAddByAdminstrative.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Return\\DTO\\DtoReturnAddByAdminstrative.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Return\\DTO\\DtoReturnAddByAdminstrative.cs",
@@ -3321,7 +3305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 196,
+              "DocumentIndex": 199,
               "Title": "IproductInevtoryBLL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\ProductIneventory\\InterFace\\IproductInevtoryBLL.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\ProductIneventory\\InterFace\\IproductInevtoryBLL.cs",
@@ -3333,7 +3317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 195,
+              "DocumentIndex": 198,
               "Title": "ClsProductInventory.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\ProductIneventory\\productInventory\\ClsProductInventory.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\ProductIneventory\\productInventory\\ClsProductInventory.cs",
@@ -3345,7 +3329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 197,
+              "DocumentIndex": 200,
               "Title": "DtoProductInventoryUpdate.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\ProductInventory\\DTO\\DtoProductInventoryUpdate.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\ProductInventory\\DTO\\DtoProductInventoryUpdate.cs",
@@ -3357,7 +3341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 198,
+              "DocumentIndex": 201,
               "Title": "20250929164521_folo.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20250929164521_folo.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20250929164521_folo.cs",
@@ -3368,7 +3352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 199,
+              "DocumentIndex": 202,
               "Title": "20250929163913_MM11.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20250929163913_MM11.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20250929163913_MM11.cs",
@@ -3379,7 +3363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 200,
+              "DocumentIndex": 203,
               "Title": "20250929163744_MM11.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\Migrations\\20250929163744_MM11.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\Migrations\\20250929163744_MM11.cs",
@@ -3390,7 +3374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 201,
+              "DocumentIndex": 204,
               "Title": "IManageProductInevntoryBLL.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\FillProductInventory\\InterFace\\IManageProductInevntoryBLL.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\FillProductInventory\\InterFace\\IManageProductInevntoryBLL.cs",
@@ -3402,7 +3386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 202,
+              "DocumentIndex": 205,
               "Title": "ClsManageProductInventory.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhina BLL\\FillProductInventory\\ManageProductInventory\\ClsManageProductInventory.cs",
               "RelativeDocumentMoniker": "..\\Juhina BLL\\FillProductInventory\\ManageProductInventory\\ClsManageProductInventory.cs",
@@ -3414,7 +3398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 203,
+              "DocumentIndex": 206,
               "Title": "IManagementProductInentoryDAl.cs",
               "DocumentMoniker": "D:\\Juhyna Project\\Juhyna Project\\Juhyna DAL\\FillProductInInventoryByAdminstrative\\InterFace\\IManagementProductInentoryDAl.cs",
               "RelativeDocumentMoniker": "..\\Juhyna DAL\\FillProductInInventoryByAdminstrative\\InterFace\\IManagementProductInentoryDAl.cs",

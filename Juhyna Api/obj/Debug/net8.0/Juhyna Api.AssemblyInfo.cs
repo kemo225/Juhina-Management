@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("28e5a0b6-7750-4e50-b9f1-963c58db31d1")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Juhyna Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+805ff2772f89fa396523fc9e2c280f61aae9cb0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Juhyna Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Juhyna Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

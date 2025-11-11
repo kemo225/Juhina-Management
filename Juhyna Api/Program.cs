@@ -10,6 +10,7 @@ using Juhyna_BLL.CustomerPlace.CustomerPlace;
 using Juhyna_BLL.CustomerPlace.InterFace;
 using Juhyna_BLL.Customers.Customers;
 using Juhyna_BLL.Customers.InterFace;
+using Juhyna_BLL.EmailService.InterFace;
 using Juhyna_BLL.FollowingSaleAdminstrative.Interface;
 using Juhyna_BLL.FollowingSaleAdminstrative.NewFolder;
 using Juhyna_BLL.Hashing.Hashing;
@@ -18,6 +19,7 @@ using Juhyna_BLL.Inevntory.InterFace;
 using Juhyna_BLL.Inevntory.Inventory;
 using Juhyna_BLL.ManageProductInventory.InterFace;
 using Juhyna_BLL.ManageProductInventory.ManageProductInventory;
+using Juhyna_BLL.NotificationService.Notification;
 using Juhyna_BLL.Order.InterFace;
 using Juhyna_BLL.Order.Order;
 using Juhyna_BLL.Payment.InterFace;
@@ -47,6 +49,8 @@ using Juhyna_DAL.Customer.DataAccessCustmer;
 using Juhyna_DAL.Customer.InterFace;
 using Juhyna_DAL.CustomerPlace.DataAccessCustomerPlaces;
 using Juhyna_DAL.CustomerPlace.InterFace;
+using Juhyna_DAL.EmailService.InterFce;
+using Juhyna_DAL.EmailService.NewFolder;
 using Juhyna_DAL.FollowingSaleAdminstrative.DatacAccessFolllowingsaleAdminstrative;
 
 //using Juhyna_DAL.FollowingSaleAdminstrative.DatacAccessFolllowingsaleAdminstrative;
@@ -99,7 +103,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddAuthentication(A => A.DefaultAuthenticateScheme = "Bearer")
   .AddJwtBearer("Bearer", options =>
   {
-      string Secretkey = "osidcfgw#$%#$@_()_!+_PWOSLX>W)EF(GIKFLD";
+      string Secretkey =   builder.Configuration["SecretKey"]!;
       var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Secretkey));
       options.TokenValidationParameters = new TokenValidationParameters
       {
@@ -149,8 +153,10 @@ builder.Services.AddSwaggerGen();
 //add automapper
 builder.Services.AddAutoMapper(typeof(AdminProfiles).Assembly);//sign fOR THIS ONLY auto mapper
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());// sign FOR ALL AUTO Mapper
-                                                                        //add Context
-builder.Services.AddDbContext<JuhinaDBContext>(op => op.UseSqlServer("Data Source=.;Initial Catalog=JuhinaDB;Integrated Security=True;Encrypt=False"));
+
+//add Context
+var Connecrionstring = builder.Configuration["ConnectionStrings:DefaultConnection"];
+builder.Services.AddDbContext<JuhinaDBContext>(op => op.UseSqlServer(Connecrionstring));
 ///
 builder.Services.AddScoped<IAdminDAL, ClsDataAccessAdmins>();
 //
@@ -247,6 +253,13 @@ builder.Services.AddScoped<ItokenDal, TokenDAL>();
 builder.Services.AddScoped<IhashingDal, Hashing>();
 
 builder.Services.AddScoped<IHashingBLL, HashingBLL>();
+//
+builder.Services.AddScoped<INotfifcationDAL, NotificationDAL>();
+
+builder.Services.AddScoped<InotificationBLL, NotificationBLL>();
+
+
+//
 // Add Memory Cache
 builder.Services.AddMemoryCache();
 // Add CORS Policy
@@ -273,6 +286,7 @@ builder.Services.AddRateLimiter(options =>
     });
 });
 //
+
 
 var app = builder.Build();
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Juhyna BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+805ff2772f89fa396523fc9e2c280f61aae9cb0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Juhyna BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Juhyna BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

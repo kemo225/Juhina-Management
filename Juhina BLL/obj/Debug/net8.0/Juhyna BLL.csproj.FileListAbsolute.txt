@@ -13,3 +13,4 @@ D:\Juhyna Project\Juhyna Project\Juhina BLL\obj\Debug\net8.0\Juhyna BLL.dll
 D:\Juhyna Project\Juhyna Project\Juhina BLL\obj\Debug\net8.0\refint\Juhyna BLL.dll
 D:\Juhyna Project\Juhyna Project\Juhina BLL\obj\Debug\net8.0\Juhyna BLL.pdb
 D:\Juhyna Project\Juhyna Project\Juhina BLL\obj\Debug\net8.0\ref\Juhyna BLL.dll
+D:\Juhyna Project\Juhyna Project\Juhina BLL\obj\Debug\net8.0\Juhyna BLL.sourcelink.json

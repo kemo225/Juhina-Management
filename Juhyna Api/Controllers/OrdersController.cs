@@ -1,7 +1,8 @@
 ﻿using Juhyna_BLL.Admins.InterFace;
 using Juhyna_BLL.Customers.InterFace;
-using Juhyna_BLL.EmailService;
+using Juhyna_BLL.EmailService.InterFace;
 using Juhyna_BLL.FollowingSaleAdminstrative.Interface;
+using Juhyna_BLL.NotificationService.Notification;
 using Juhyna_BLL.Order.InterFace;
 using Juhyna_BLL.Validation;
 using Juhyna_BLL.Visit.InterFace;
@@ -34,8 +35,9 @@ namespace Juhyna_Api.Controllers
         private readonly IAdminBLL adminBLL;
         private readonly ICustomerBLL _customerBLL;
         private readonly IMemoryCache _Cashe;
+        private readonly InotificationBLL _Notification;
         public  string Cashkey = "";
-        public OrdersController(IMemoryCache cache,IOrderBLL orderBLL, ValidationBLL ValidationBLL, IInvoicesBLL InvoiceBLL, IVisitBLL VisitBLL,IAdminBLL adminBLL, ICustomerBLL customerBLL)
+        public OrdersController(InotificationBLL notificationBLL,IMemoryCache cache,IOrderBLL orderBLL, ValidationBLL ValidationBLL, IInvoicesBLL InvoiceBLL, IVisitBLL VisitBLL,IAdminBLL adminBLL, ICustomerBLL customerBLL)
         {
             _orderBLL = orderBLL;  
             _InvoiceBLL = InvoiceBLL;
@@ -44,6 +46,7 @@ namespace Juhyna_Api.Controllers
             this.adminBLL = adminBLL;
             _customerBLL = customerBLL;
             _Cashe = cache;
+            _Notification = notificationBLL;
         }
 
         [HttpGet]
@@ -197,7 +200,7 @@ Best regards,
 Juhina Company
 ";
 
-                    EmailServiceBLL.SendEmail(admin.Email, "Order Canceled", emailBody);
+                    _Notification.SendEmail(admin.Email, "Order Canceled", emailBody);
                 }
 
             }
@@ -275,7 +278,7 @@ Best regards,
 Juhina Company
 ";
 
-                        EmailServiceBLL.SendEmail(admin.Email, "New Order Successful", emailBody);
+                        _Notification.SendEmail(admin.Email, "New Order Successful", emailBody);
                     }
 
                 }catch(Exception ex)
