@@ -2,6 +2,7 @@
 using Juhyna_DAL.Models;
 using Juhyna_DAL.Services.InterFace_Token;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Collections.Generic;
@@ -16,9 +17,11 @@ namespace Juhyna_DAL.Services.JWT
     public class JwtToken:IToken
     {
         private readonly JuhinaDBContext _JughinaDB;
-        public JwtToken(JuhinaDBContext JughinaDB)
+        private readonly IConfiguration _configuration;
+        public JwtToken(JuhinaDBContext JughinaDB,IConfiguration configuration)
         {
             _JughinaDB = JughinaDB;
+            _configuration = configuration;
         }
         public string GenerateAccessTokenForAdmin(DtoLogin Login)
         {
@@ -33,8 +36,9 @@ namespace Juhyna_DAL.Services.JWT
 
 
             // Create Secret Key
-            string Secretkey = "osidcfgw#$%#$@_()_!+_PWOSLX>W)EF(GIKFLD";
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Secretkey));
+            var SecretKey = _configuration["SecretKey"];
+
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(SecretKey!));
 
             //  Create Signature
             var signcredials = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
@@ -65,8 +69,8 @@ namespace Juhyna_DAL.Services.JWT
             Claimss.Add(new Claim(ClaimTypes.Role, "Adminstrative"));
 
             // Create Secret Key
-            string Secretkey = "osidcfgw#$%#$@_()_!+_PWOSLX>W)EF(GIKFLD";
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Secretkey));
+            var SecretKey = _configuration["SecretKey"];
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(SecretKey!));
 
             //  Create Signature
             var signcredials = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
@@ -97,8 +101,9 @@ namespace Juhyna_DAL.Services.JWT
             Claimss.Add(new Claim(ClaimTypes.Role, "Sale"));
 
             // Create Secret Key
-            string Secretkey = "osidcfgw#$%#$@_()_!+_PWOSLX>W)EF(GIKFLD";
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Secretkey));
+            var SecretKey = _configuration["SecretKey"];
+
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(SecretKey!));
 
             //  Create Signature
             var signcredials = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
@@ -130,8 +135,8 @@ namespace Juhyna_DAL.Services.JWT
 
 
             // Create Secret Key
-            string Secretkey = "osidcfgw#$%#$@_()_!+_PWOSLX>W)EF(GIKFLD";
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Secretkey));
+            var SecretKey = _configuration["SecretKey"];
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(SecretKey!));
 
             //  Create Signature
             var signcredials = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
@@ -162,8 +167,8 @@ namespace Juhyna_DAL.Services.JWT
             Claimss.Add(new Claim(ClaimTypes.Role, "Adminstrative"));
 
             // Create Secret Key
-            string Secretkey = "osidcfgw#$%#$@_()_!+_PWOSLX>W)EF(GIKFLD";
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Secretkey));
+            var SecretKey = _configuration["SecretKey"];
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(SecretKey!));
 
             //  Create Signature
             var signcredials = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
@@ -194,8 +199,8 @@ namespace Juhyna_DAL.Services.JWT
             Claimss.Add(new Claim(ClaimTypes.Role, "Sale"));
 
             // Create Secret Key
-            string Secretkey = "osidcfgw#$%#$@_()_!+_PWOSLX>W)EF(GIKFLD";
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Secretkey));
+            var SecretKey = _configuration["SecretKey"];
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(SecretKey!));
 
             //  Create Signature
             var signcredials = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
